@@ -1,0 +1,2000 @@
+{
+  "timestamp": "2025-10-27 23:45:27",
+  "exploration_rate": 0.7841,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 44.3072, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -24.3684, "Q(ACO)": -32.2477} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 0.0463, "Q(ACO)": -21.7407}, "Excellent Balance": {"Q(RR)": 19.1034, "Q(ACO)": 43.1964} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:27",
+  "exploration_rate": 0.7841,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 44.3072, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -25.6192, "Q(ACO)": -32.2477} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 0.0463, "Q(ACO)": -21.7407}, "Excellent Balance": {"Q(RR)": 19.1034, "Q(ACO)": 43.1964} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:27",
+  "exploration_rate": 0.7841,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 44.3072, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -26.7949, "Q(ACO)": -32.2477} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 0.0463, "Q(ACO)": -21.7407}, "Excellent Balance": {"Q(RR)": 19.1034, "Q(ACO)": 43.1964} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:27",
+  "exploration_rate": 0.7841,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 44.3072, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -26.7949, "Q(ACO)": -36.1663} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 0.0463, "Q(ACO)": -21.7407}, "Excellent Balance": {"Q(RR)": 19.1034, "Q(ACO)": 43.1964} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:27",
+  "exploration_rate": 0.7841,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 44.3072, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -27.9001, "Q(ACO)": -36.1663} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 0.0463, "Q(ACO)": -21.7407}, "Excellent Balance": {"Q(RR)": 19.1034, "Q(ACO)": 43.1964} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:27",
+  "exploration_rate": 0.7841,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 44.3072, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -28.9389, "Q(ACO)": -36.1663} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 0.0463, "Q(ACO)": -21.7407}, "Excellent Balance": {"Q(RR)": 19.1034, "Q(ACO)": 43.1964} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:27",
+  "exploration_rate": 0.7841,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 44.3072, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -29.9154, "Q(ACO)": -36.1663} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 0.0463, "Q(ACO)": -21.7407}, "Excellent Balance": {"Q(RR)": 19.1034, "Q(ACO)": 43.1964} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:27",
+  "exploration_rate": 0.7841,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 44.3072, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -30.8334, "Q(ACO)": -36.1663} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 0.0463, "Q(ACO)": -21.7407}, "Excellent Balance": {"Q(RR)": 19.1034, "Q(ACO)": 43.1964} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:27",
+  "exploration_rate": 0.7841,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 44.3072, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -31.6962, "Q(ACO)": -36.1663} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 0.0463, "Q(ACO)": -21.7407}, "Excellent Balance": {"Q(RR)": 19.1034, "Q(ACO)": 43.1964} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:27",
+  "exploration_rate": 0.7841,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 44.3072, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -32.5073, "Q(ACO)": -36.1663} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 0.0463, "Q(ACO)": -21.7407}, "Excellent Balance": {"Q(RR)": 19.1034, "Q(ACO)": 43.1964} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:27",
+  "exploration_rate": 0.7841,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 44.3072, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -33.2697, "Q(ACO)": -36.1663} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 0.0463, "Q(ACO)": -21.7407}, "Excellent Balance": {"Q(RR)": 19.1034, "Q(ACO)": 43.1964} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:27",
+  "exploration_rate": 0.7841,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 44.3072, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -33.9864, "Q(ACO)": -36.1663} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 0.0463, "Q(ACO)": -21.7407}, "Excellent Balance": {"Q(RR)": 19.1034, "Q(ACO)": 43.1964} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:27",
+  "exploration_rate": 0.7841,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 44.3072, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -34.6601, "Q(ACO)": -36.1663} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 0.0463, "Q(ACO)": -21.7407}, "Excellent Balance": {"Q(RR)": 19.1034, "Q(ACO)": 43.1964} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:27",
+  "exploration_rate": 0.7841,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 44.3072, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -35.2933, "Q(ACO)": -36.1663} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 0.0463, "Q(ACO)": -21.7407}, "Excellent Balance": {"Q(RR)": 19.1034, "Q(ACO)": 43.1964} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:27",
+  "exploration_rate": 0.7841,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 44.3072, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -35.2933, "Q(ACO)": -42.5678} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 0.0463, "Q(ACO)": -21.7407}, "Excellent Balance": {"Q(RR)": 19.1034, "Q(ACO)": 43.1964} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:27",
+  "exploration_rate": 0.7841,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 44.3072, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -35.8886, "Q(ACO)": -42.5678} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 0.0463, "Q(ACO)": -21.7407}, "Excellent Balance": {"Q(RR)": 19.1034, "Q(ACO)": 43.1964} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:27",
+  "exploration_rate": 0.7841,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 44.3072, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -36.4481, "Q(ACO)": -42.5678} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 0.0463, "Q(ACO)": -21.7407}, "Excellent Balance": {"Q(RR)": 19.1034, "Q(ACO)": 43.1964} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:27",
+  "exploration_rate": 0.7841,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 44.3072, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -36.4481, "Q(ACO)": -45.752} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 0.0463, "Q(ACO)": -21.7407}, "Excellent Balance": {"Q(RR)": 19.1034, "Q(ACO)": 43.1964} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:27",
+  "exploration_rate": 0.7841,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 44.3072, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -36.4481, "Q(ACO)": -46.7351} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 0.0463, "Q(ACO)": -21.7407}, "Excellent Balance": {"Q(RR)": 19.1034, "Q(ACO)": 43.1964} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:27",
+  "exploration_rate": 0.7841,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 44.3072, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -36.7467, "Q(ACO)": -46.7351} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 0.0463, "Q(ACO)": -21.7407}, "Excellent Balance": {"Q(RR)": 19.1034, "Q(ACO)": 43.1964} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:27",
+  "exploration_rate": 0.7841,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 44.3072, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -36.7467, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 0.0463, "Q(ACO)": -21.7407}, "Excellent Balance": {"Q(RR)": 19.1034, "Q(ACO)": 43.1964} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:27",
+  "exploration_rate": 0.7841,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 44.3072, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.2548, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 0.0463, "Q(ACO)": -21.7407}, "Excellent Balance": {"Q(RR)": 19.1034, "Q(ACO)": 43.1964} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:27",
+  "exploration_rate": 0.7841,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 44.3072, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.7323, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 0.0463, "Q(ACO)": -21.7407}, "Excellent Balance": {"Q(RR)": 19.1034, "Q(ACO)": 43.1964} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:28",
+  "exploration_rate": 0.7841,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 44.3072, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9966, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 0.0463, "Q(ACO)": -21.7407}, "Excellent Balance": {"Q(RR)": 19.1034, "Q(ACO)": 43.1964} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:28",
+  "exploration_rate": 0.7802,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 44.3072, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -38.4297, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 0.0463, "Q(ACO)": -21.7407}, "Excellent Balance": {"Q(RR)": 19.1034, "Q(ACO)": 43.1964} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:28",
+  "exploration_rate": 0.7802,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 44.3072, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -38.7503, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 0.0463, "Q(ACO)": -21.7407}, "Excellent Balance": {"Q(RR)": 19.1034, "Q(ACO)": 43.1964} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:28",
+  "exploration_rate": 0.7802,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 44.3072, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -39.1387, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 0.0463, "Q(ACO)": -21.7407}, "Excellent Balance": {"Q(RR)": 19.1034, "Q(ACO)": 43.1964} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:28",
+  "exploration_rate": 0.7802,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 44.3072, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -39.5001, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 0.0463, "Q(ACO)": -21.7407}, "Excellent Balance": {"Q(RR)": 19.1034, "Q(ACO)": 43.1964} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:28",
+  "exploration_rate": 0.7802,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 44.3072, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -39.9753, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 0.0463, "Q(ACO)": -21.7407}, "Excellent Balance": {"Q(RR)": 19.1034, "Q(ACO)": 43.1964} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:28",
+  "exploration_rate": 0.7802,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 44.3072, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -40.4251, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 0.0463, "Q(ACO)": -21.7407}, "Excellent Balance": {"Q(RR)": 19.1034, "Q(ACO)": 43.1964} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:28",
+  "exploration_rate": 0.7802,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 44.3072, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -40.5462, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 0.0463, "Q(ACO)": -21.7407}, "Excellent Balance": {"Q(RR)": 19.1034, "Q(ACO)": 43.1964} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:28",
+  "exploration_rate": 0.7802,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 44.3072, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -40.8728, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 0.0463, "Q(ACO)": -21.7407}, "Excellent Balance": {"Q(RR)": 19.1034, "Q(ACO)": 43.1964} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:28",
+  "exploration_rate": 0.7802,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 44.3072, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -41.1921, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 0.0463, "Q(ACO)": -21.7407}, "Excellent Balance": {"Q(RR)": 19.1034, "Q(ACO)": 43.1964} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:28",
+  "exploration_rate": 0.7802,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 44.3072, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -41.3152, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 0.0463, "Q(ACO)": -21.7407}, "Excellent Balance": {"Q(RR)": 19.1034, "Q(ACO)": 43.1964} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:28",
+  "exploration_rate": 0.7802,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 44.3072, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -41.4997, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 0.0463, "Q(ACO)": -21.7407}, "Excellent Balance": {"Q(RR)": 19.1034, "Q(ACO)": 43.1964} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:28",
+  "exploration_rate": 0.7802,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 44.3072, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -41.569, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 0.0463, "Q(ACO)": -21.7407}, "Excellent Balance": {"Q(RR)": 19.1034, "Q(ACO)": 43.1964} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:28",
+  "exploration_rate": 0.7802,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 44.3072, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -41.6934, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 0.0463, "Q(ACO)": -21.7407}, "Excellent Balance": {"Q(RR)": 19.1034, "Q(ACO)": 43.1964} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:28",
+  "exploration_rate": 0.7802,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 44.3072, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -41.8711, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 0.0463, "Q(ACO)": -21.7407}, "Excellent Balance": {"Q(RR)": 19.1034, "Q(ACO)": 43.1964} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:28",
+  "exploration_rate": 0.7802,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 44.3072, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -42.0387, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 0.0463, "Q(ACO)": -21.7407}, "Excellent Balance": {"Q(RR)": 19.1034, "Q(ACO)": 43.1964} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:28",
+  "exploration_rate": 0.7802,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 44.3072, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -42.1986, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 0.0463, "Q(ACO)": -21.7407}, "Excellent Balance": {"Q(RR)": 19.1034, "Q(ACO)": 43.1964} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:28",
+  "exploration_rate": 0.7802,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 44.3072, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -42.232, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 0.0463, "Q(ACO)": -21.7407}, "Excellent Balance": {"Q(RR)": 19.1034, "Q(ACO)": 43.1964} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:28",
+  "exploration_rate": 0.7802,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 44.3072, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -42.3609, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 0.0463, "Q(ACO)": -21.7407}, "Excellent Balance": {"Q(RR)": 19.1034, "Q(ACO)": 43.1964} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:28",
+  "exploration_rate": 0.7802,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 44.3072, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -42.4575, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 0.0463, "Q(ACO)": -21.7407}, "Excellent Balance": {"Q(RR)": 19.1034, "Q(ACO)": 43.1964} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:28",
+  "exploration_rate": 0.7802,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 44.3072, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -42.4703, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 0.0463, "Q(ACO)": -21.7407}, "Excellent Balance": {"Q(RR)": 19.1034, "Q(ACO)": 43.1964} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:28",
+  "exploration_rate": 0.7802,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 44.3072, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -42.5506, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 0.0463, "Q(ACO)": -21.7407}, "Excellent Balance": {"Q(RR)": 19.1034, "Q(ACO)": 43.1964} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:29",
+  "exploration_rate": 0.7802,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 44.3072, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.0182, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 0.0463, "Q(ACO)": -21.7407}, "Excellent Balance": {"Q(RR)": 19.1034, "Q(ACO)": 43.1964} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:29",
+  "exploration_rate": 0.7802,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 44.3072, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.5056, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 0.0463, "Q(ACO)": -21.7407}, "Excellent Balance": {"Q(RR)": 19.1034, "Q(ACO)": 43.1964} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:29",
+  "exploration_rate": 0.7802,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 44.3072, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 0.0463, "Q(ACO)": -21.7407}, "Excellent Balance": {"Q(RR)": 19.1034, "Q(ACO)": 43.1964} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:29",
+  "exploration_rate": 0.7802,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 0.0463, "Q(ACO)": -21.7407}, "Excellent Balance": {"Q(RR)": 19.1034, "Q(ACO)": 43.1964} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:29",
+  "exploration_rate": 0.7763,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 0.0463, "Q(ACO)": -30.6051}, "Excellent Balance": {"Q(RR)": 19.1034, "Q(ACO)": 43.1964} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:29",
+  "exploration_rate": 0.7763,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 0.0463, "Q(ACO)": -35.1165}, "Excellent Balance": {"Q(RR)": 19.1034, "Q(ACO)": 43.1964} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:29",
+  "exploration_rate": 0.7763,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -2.7825, "Q(ACO)": -35.1165}, "Excellent Balance": {"Q(RR)": 19.1034, "Q(ACO)": 43.1964} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:29",
+  "exploration_rate": 0.7763,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -2.7825, "Q(ACO)": -38.2305}, "Excellent Balance": {"Q(RR)": 19.1034, "Q(ACO)": 43.1964} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:29",
+  "exploration_rate": 0.7763,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -2.7825, "Q(ACO)": -39.2293}, "Excellent Balance": {"Q(RR)": 19.1034, "Q(ACO)": 43.1964} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:29",
+  "exploration_rate": 0.7763,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -2.7825, "Q(ACO)": -40.043}, "Excellent Balance": {"Q(RR)": 19.1034, "Q(ACO)": 43.1964} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:29",
+  "exploration_rate": 0.7763,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -5.2388, "Q(ACO)": -40.043}, "Excellent Balance": {"Q(RR)": 19.1034, "Q(ACO)": 43.1964} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:29",
+  "exploration_rate": 0.7763,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -5.2388, "Q(ACO)": -41.1883}, "Excellent Balance": {"Q(RR)": 19.1034, "Q(ACO)": 43.1964} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:29",
+  "exploration_rate": 0.7763,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -5.2388, "Q(ACO)": -41.8649}, "Excellent Balance": {"Q(RR)": 19.1034, "Q(ACO)": 43.1964} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:29",
+  "exploration_rate": 0.7763,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -7.6411, "Q(ACO)": -41.8649}, "Excellent Balance": {"Q(RR)": 19.1034, "Q(ACO)": 43.1964} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:29",
+  "exploration_rate": 0.7763,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -7.6411, "Q(ACO)": -13.8837}, "Excellent Balance": {"Q(RR)": 19.1034, "Q(ACO)": 43.1964} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:29",
+  "exploration_rate": 0.7763,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -7.6411, "Q(ACO)": -31.5481}, "Excellent Balance": {"Q(RR)": 19.1034, "Q(ACO)": 43.1964} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:29",
+  "exploration_rate": 0.7763,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -7.6411, "Q(ACO)": -39.4347}, "Excellent Balance": {"Q(RR)": 19.1034, "Q(ACO)": 43.1964} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:29",
+  "exploration_rate": 0.7763,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -7.6411, "Q(ACO)": -42.2186}, "Excellent Balance": {"Q(RR)": 19.1034, "Q(ACO)": 43.1964} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:29",
+  "exploration_rate": 0.7763,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -4.1436, "Q(ACO)": -42.2186}, "Excellent Balance": {"Q(RR)": 19.1034, "Q(ACO)": 43.1964} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:29",
+  "exploration_rate": 0.7763,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -6.6071, "Q(ACO)": -42.2186}, "Excellent Balance": {"Q(RR)": 19.1034, "Q(ACO)": 43.1964} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:29",
+  "exploration_rate": 0.7763,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -6.6071, "Q(ACO)": -42.5388}, "Excellent Balance": {"Q(RR)": 19.1034, "Q(ACO)": 43.1964} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:29",
+  "exploration_rate": 0.7763,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -6.6071, "Q(ACO)": -43.3837}, "Excellent Balance": {"Q(RR)": 19.1034, "Q(ACO)": 43.1964} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:30",
+  "exploration_rate": 0.7763,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -6.6071, "Q(ACO)": -44.5967}, "Excellent Balance": {"Q(RR)": 19.1034, "Q(ACO)": 43.1964} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:30",
+  "exploration_rate": 0.7763,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -6.6071, "Q(ACO)": -44.7608}, "Excellent Balance": {"Q(RR)": 19.1034, "Q(ACO)": 43.1964} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:30",
+  "exploration_rate": 0.7763,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -6.6071, "Q(ACO)": -44.0871}, "Excellent Balance": {"Q(RR)": 19.1034, "Q(ACO)": 43.1964} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:30",
+  "exploration_rate": 0.7763,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -6.6071, "Q(ACO)": -13.5411}, "Excellent Balance": {"Q(RR)": 19.1034, "Q(ACO)": 43.1964} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:30",
+  "exploration_rate": 0.7763,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -6.6071, "Q(ACO)": -31.4865}, "Excellent Balance": {"Q(RR)": 19.1034, "Q(ACO)": 43.1964} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:30",
+  "exploration_rate": 0.7763,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -6.6071, "Q(ACO)": -38.5733}, "Excellent Balance": {"Q(RR)": 19.1034, "Q(ACO)": 43.1964} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:30",
+  "exploration_rate": 0.7763,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -6.6071, "Q(ACO)": -41.5185}, "Excellent Balance": {"Q(RR)": 19.1034, "Q(ACO)": 43.1964} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:30",
+  "exploration_rate": 0.7724,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -8.8589, "Q(ACO)": -41.5185}, "Excellent Balance": {"Q(RR)": 19.1034, "Q(ACO)": 43.1964} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:30",
+  "exploration_rate": 0.7724,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -8.8589, "Q(ACO)": -41.5185}, "Excellent Balance": {"Q(RR)": 19.1034, "Q(ACO)": 48.1636} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:30",
+  "exploration_rate": 0.7724,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -8.8589, "Q(ACO)": -41.5185}, "Excellent Balance": {"Q(RR)": 19.1034, "Q(ACO)": 22.1581} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:30",
+  "exploration_rate": 0.7724,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -8.8589, "Q(ACO)": -41.5185}, "Excellent Balance": {"Q(RR)": 16.9446, "Q(ACO)": 22.1581} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:30",
+  "exploration_rate": 0.7724,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -8.8589, "Q(ACO)": -41.5185}, "Excellent Balance": {"Q(RR)": 16.9446, "Q(ACO)": -2.1368} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:30",
+  "exploration_rate": 0.7724,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -8.8589, "Q(ACO)": -41.5185}, "Excellent Balance": {"Q(RR)": 16.9446, "Q(ACO)": -14.4756} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:30",
+  "exploration_rate": 0.7724,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -8.8589, "Q(ACO)": -41.5185}, "Excellent Balance": {"Q(RR)": 16.7361, "Q(ACO)": -14.4756} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:30",
+  "exploration_rate": 0.7724,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -8.8589, "Q(ACO)": -41.5185}, "Excellent Balance": {"Q(RR)": 16.7361, "Q(ACO)": -19.2195} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:30",
+  "exploration_rate": 0.7724,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -8.8589, "Q(ACO)": -41.5185}, "Excellent Balance": {"Q(RR)": 16.7361, "Q(ACO)": -21.0191} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:30",
+  "exploration_rate": 0.7724,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -8.8589, "Q(ACO)": -41.5185}, "Excellent Balance": {"Q(RR)": 16.7361, "Q(ACO)": -21.6033} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:30",
+  "exploration_rate": 0.7724,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -8.8589, "Q(ACO)": -41.5185}, "Excellent Balance": {"Q(RR)": 16.6133, "Q(ACO)": -21.6033} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:30",
+  "exploration_rate": 0.7724,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -8.8589, "Q(ACO)": -41.5185}, "Excellent Balance": {"Q(RR)": 16.6133, "Q(ACO)": 6.8934} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:30",
+  "exploration_rate": 0.7724,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -8.8589, "Q(ACO)": -45.02}, "Excellent Balance": {"Q(RR)": 16.6133, "Q(ACO)": 6.8934} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:30",
+  "exploration_rate": 0.7724,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -8.8589, "Q(ACO)": -15.6665}, "Excellent Balance": {"Q(RR)": 16.6133, "Q(ACO)": 6.8934} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:30",
+  "exploration_rate": 0.7724,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -8.8589, "Q(ACO)": -3.5336}, "Excellent Balance": {"Q(RR)": 16.6133, "Q(ACO)": 6.8934} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:31",
+  "exploration_rate": 0.7724,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -8.8589, "Q(ACO)": -26.2718}, "Excellent Balance": {"Q(RR)": 16.6133, "Q(ACO)": 6.8934} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:31",
+  "exploration_rate": 0.7724,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -8.8589, "Q(ACO)": -26.2718}, "Excellent Balance": {"Q(RR)": 16.6133, "Q(ACO)": 18.9473} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:31",
+  "exploration_rate": 0.7724,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -8.8589, "Q(ACO)": -26.2718}, "Excellent Balance": {"Q(RR)": 16.6133, "Q(ACO)": 25.3701} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:31",
+  "exploration_rate": 0.7724,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -11.0648, "Q(ACO)": -26.2718}, "Excellent Balance": {"Q(RR)": 16.6133, "Q(ACO)": 25.3701} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:31",
+  "exploration_rate": 0.7724,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -11.0648, "Q(ACO)": -26.2718}, "Excellent Balance": {"Q(RR)": 16.6133, "Q(ACO)": 1.0596} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:31",
+  "exploration_rate": 0.7724,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -11.0648, "Q(ACO)": -26.2718}, "Excellent Balance": {"Q(RR)": 16.4954, "Q(ACO)": 1.0596} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:31",
+  "exploration_rate": 0.7724,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -11.0648, "Q(ACO)": -26.2718}, "Excellent Balance": {"Q(RR)": 16.4954, "Q(ACO)": 16.85} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:31",
+  "exploration_rate": 0.7724,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -11.0648, "Q(ACO)": -26.2718}, "Excellent Balance": {"Q(RR)": 16.4954, "Q(ACO)": 23.0088} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:31",
+  "exploration_rate": 0.7724,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -11.0648, "Q(ACO)": -26.2718}, "Excellent Balance": {"Q(RR)": 16.4954, "Q(ACO)": -34.6411} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:31",
+  "exploration_rate": 0.7724,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -11.0648, "Q(ACO)": -26.2718}, "Excellent Balance": {"Q(RR)": 16.4954, "Q(ACO)": -60.9213} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:31",
+  "exploration_rate": 0.7686,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -11.0648, "Q(ACO)": -26.2718}, "Excellent Balance": {"Q(RR)": 16.4954, "Q(ACO)": 1.9863} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:31",
+  "exploration_rate": 0.7686,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -11.0648, "Q(ACO)": -26.2718}, "Excellent Balance": {"Q(RR)": 16.4954, "Q(ACO)": -43.7775} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:31",
+  "exploration_rate": 0.7686,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -11.0648, "Q(ACO)": -26.2718}, "Excellent Balance": {"Q(RR)": 16.4954, "Q(ACO)": 7.0661} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:31",
+  "exploration_rate": 0.7686,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -11.0648, "Q(ACO)": -26.2718}, "Excellent Balance": {"Q(RR)": 16.4954, "Q(ACO)": 30.1575} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:31",
+  "exploration_rate": 0.7686,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -11.0648, "Q(ACO)": -26.2718}, "Excellent Balance": {"Q(RR)": 16.4954, "Q(ACO)": 46.7904} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:31",
+  "exploration_rate": 0.7686,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -11.0648, "Q(ACO)": -26.2718}, "Excellent Balance": {"Q(RR)": 16.4954, "Q(ACO)": -9.4238} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:31",
+  "exploration_rate": 0.7686,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -11.0648, "Q(ACO)": -26.2718}, "Excellent Balance": {"Q(RR)": 16.4954, "Q(ACO)": 23.4164} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:31",
+  "exploration_rate": 0.7686,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -11.0648, "Q(ACO)": -26.2718}, "Excellent Balance": {"Q(RR)": 16.4954, "Q(ACO)": 38.0635} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:31",
+  "exploration_rate": 0.7686,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -11.0648, "Q(ACO)": -26.2718}, "Excellent Balance": {"Q(RR)": 16.4954, "Q(ACO)": 97.0467} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:31",
+  "exploration_rate": 0.7686,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -11.0648, "Q(ACO)": -71.993}, "Excellent Balance": {"Q(RR)": 16.4954, "Q(ACO)": 97.0467} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:31",
+  "exploration_rate": 0.7686,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -11.0648, "Q(ACO)": -71.993}, "Excellent Balance": {"Q(RR)": 16.4954, "Q(ACO)": 108.4907} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:31",
+  "exploration_rate": 0.7686,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -11.0648, "Q(ACO)": -71.993}, "Excellent Balance": {"Q(RR)": 66.0918, "Q(ACO)": 108.4907} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:32",
+  "exploration_rate": 0.7686,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -11.0648, "Q(ACO)": -71.993}, "Excellent Balance": {"Q(RR)": 66.0918, "Q(ACO)": 119.669} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:32",
+  "exploration_rate": 0.7686,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -11.0648, "Q(ACO)": -16.1042}, "Excellent Balance": {"Q(RR)": 66.0918, "Q(ACO)": 119.669} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:32",
+  "exploration_rate": 0.7686,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -11.0648, "Q(ACO)": -16.1042}, "Excellent Balance": {"Q(RR)": 91.965, "Q(ACO)": 119.669} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:32",
+  "exploration_rate": 0.7686,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -11.0648, "Q(ACO)": -65.8415}, "Excellent Balance": {"Q(RR)": 91.965, "Q(ACO)": 119.669} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:32",
+  "exploration_rate": 0.7686,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -9.4957, "Q(ACO)": -65.8415}, "Excellent Balance": {"Q(RR)": 91.965, "Q(ACO)": 119.669} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:32",
+  "exploration_rate": 0.7686,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -9.4957, "Q(ACO)": 29.1413}, "Excellent Balance": {"Q(RR)": 91.965, "Q(ACO)": 119.669} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:32",
+  "exploration_rate": 0.7686,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -9.4957, "Q(ACO)": -27.8494}, "Excellent Balance": {"Q(RR)": 91.965, "Q(ACO)": 119.669} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:32",
+  "exploration_rate": 0.7686,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -9.4957, "Q(ACO)": -71.2766}, "Excellent Balance": {"Q(RR)": 91.965, "Q(ACO)": 119.669} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:32",
+  "exploration_rate": 0.7686,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -9.4957, "Q(ACO)": -16.5693}, "Excellent Balance": {"Q(RR)": 91.965, "Q(ACO)": 119.669} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:32",
+  "exploration_rate": 0.7686,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -9.4957, "Q(ACO)": -65.1448}, "Excellent Balance": {"Q(RR)": 91.965, "Q(ACO)": 119.669} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:32",
+  "exploration_rate": 0.7686,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -9.4957, "Q(ACO)": -86.0266}, "Excellent Balance": {"Q(RR)": 91.965, "Q(ACO)": 119.669} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:32",
+  "exploration_rate": 0.7686,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -9.4957, "Q(ACO)": -95.3046}, "Excellent Balance": {"Q(RR)": 91.965, "Q(ACO)": 119.669} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:32",
+  "exploration_rate": 0.7686,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -9.4957, "Q(ACO)": 199.1752}, "Excellent Balance": {"Q(RR)": 91.965, "Q(ACO)": 119.669} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:32",
+  "exploration_rate": 0.7647,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -9.4957, "Q(ACO)": -33.2541}, "Excellent Balance": {"Q(RR)": 91.965, "Q(ACO)": 119.669} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:32",
+  "exploration_rate": 0.7647,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -9.4957, "Q(ACO)": -33.2541}, "Excellent Balance": {"Q(RR)": 91.965, "Q(ACO)": 183.2051} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:32",
+  "exploration_rate": 0.7647,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -9.4957, "Q(ACO)": -0.8456}, "Excellent Balance": {"Q(RR)": 91.965, "Q(ACO)": 183.2051} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:32",
+  "exploration_rate": 0.7647,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -9.4957, "Q(ACO)": -55.8265}, "Excellent Balance": {"Q(RR)": 91.965, "Q(ACO)": 183.2051} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:32",
+  "exploration_rate": 0.7647,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -8.0628, "Q(ACO)": -55.8265}, "Excellent Balance": {"Q(RR)": 91.965, "Q(ACO)": 183.2051} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:32",
+  "exploration_rate": 0.7647,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -8.0628, "Q(ACO)": -9.7874}, "Excellent Balance": {"Q(RR)": 91.965, "Q(ACO)": 183.2051} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:32",
+  "exploration_rate": 0.7647,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -8.0628, "Q(ACO)": -62.941}, "Excellent Balance": {"Q(RR)": 91.965, "Q(ACO)": 183.2051} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:32",
+  "exploration_rate": 0.7647,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -8.0628, "Q(ACO)": -84.9006}, "Excellent Balance": {"Q(RR)": 91.965, "Q(ACO)": 183.2051} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:32",
+  "exploration_rate": 0.7647,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -8.0628, "Q(ACO)": -84.9006}, "Excellent Balance": {"Q(RR)": 91.965, "Q(ACO)": 241.1293} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:33",
+  "exploration_rate": 0.7647,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -8.0628, "Q(ACO)": -84.9006}, "Excellent Balance": {"Q(RR)": 91.965, "Q(ACO)": 468.7534} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:33",
+  "exploration_rate": 0.7647,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -8.0628, "Q(ACO)": -84.9006}, "Excellent Balance": {"Q(RR)": 91.965, "Q(ACO)": 514.7625} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:33",
+  "exploration_rate": 0.7647,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -8.0628, "Q(ACO)": -84.9006}, "Excellent Balance": {"Q(RR)": 91.965, "Q(ACO)": 553.0991} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:33",
+  "exploration_rate": 0.7647,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -8.0628, "Q(ACO)": -84.9006}, "Excellent Balance": {"Q(RR)": 338.479, "Q(ACO)": 553.0991} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:33",
+  "exploration_rate": 0.7647,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -8.0628, "Q(ACO)": -84.9006}, "Excellent Balance": {"Q(RR)": 338.479, "Q(ACO)": 591.9721} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:33",
+  "exploration_rate": 0.7647,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -8.0628, "Q(ACO)": -258.6852}, "Excellent Balance": {"Q(RR)": 338.479, "Q(ACO)": 591.9721} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:33",
+  "exploration_rate": 0.7647,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -8.0628, "Q(ACO)": -40.2419}, "Excellent Balance": {"Q(RR)": 338.479, "Q(ACO)": 591.9721} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:33",
+  "exploration_rate": 0.7647,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -8.0628, "Q(ACO)": 45.2946}, "Excellent Balance": {"Q(RR)": 338.479, "Q(ACO)": 591.9721} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:33",
+  "exploration_rate": 0.7647,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -8.0628, "Q(ACO)": 116.0077}, "Excellent Balance": {"Q(RR)": 338.479, "Q(ACO)": 591.9721} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:33",
+  "exploration_rate": 0.7647,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -8.0628, "Q(ACO)": -110.7567}, "Excellent Balance": {"Q(RR)": 338.479, "Q(ACO)": 591.9721} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:33",
+  "exploration_rate": 0.7647,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -8.0628, "Q(ACO)": -110.7567}, "Excellent Balance": {"Q(RR)": 338.479, "Q(ACO)": 335.2572} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:33",
+  "exploration_rate": 0.7647,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -8.0628, "Q(ACO)": -110.7567}, "Excellent Balance": {"Q(RR)": 325.4418, "Q(ACO)": 335.2572} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:33",
+  "exploration_rate": 0.7647,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -8.0628, "Q(ACO)": -103.4859}, "Excellent Balance": {"Q(RR)": 325.4418, "Q(ACO)": 335.2572} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:33",
+  "exploration_rate": 0.7647,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -8.0628, "Q(ACO)": -102.4469}, "Excellent Balance": {"Q(RR)": 325.4418, "Q(ACO)": 335.2572} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:33",
+  "exploration_rate": 0.7647,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -6.6757, "Q(ACO)": -102.4469}, "Excellent Balance": {"Q(RR)": 325.4418, "Q(ACO)": 335.2572} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:33",
+  "exploration_rate": 0.7647,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": -6.6757, "Q(ACO)": 29.2429}, "Excellent Balance": {"Q(RR)": 325.4418, "Q(ACO)": 335.2572} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:33",
+  "exploration_rate": 0.7609,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 16.143, "Q(ACO)": 29.2429}, "Excellent Balance": {"Q(RR)": 325.4418, "Q(ACO)": 335.2572} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:33",
+  "exploration_rate": 0.7609,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 16.143, "Q(ACO)": -193.0987}, "Excellent Balance": {"Q(RR)": 325.4418, "Q(ACO)": 335.2572} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:33",
+  "exploration_rate": 0.7609,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 16.143, "Q(ACO)": 172.3047}, "Excellent Balance": {"Q(RR)": 325.4418, "Q(ACO)": 335.2572} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:33",
+  "exploration_rate": 0.7609,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 16.143, "Q(ACO)": 230.4849}, "Excellent Balance": {"Q(RR)": 325.4418, "Q(ACO)": 335.2572} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:33",
+  "exploration_rate": 0.7609,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 16.143, "Q(ACO)": 284.5159}, "Excellent Balance": {"Q(RR)": 325.4418, "Q(ACO)": 335.2572} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:34",
+  "exploration_rate": 0.7609,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 16.143, "Q(ACO)": 336.1951}, "Excellent Balance": {"Q(RR)": 325.4418, "Q(ACO)": 335.2572} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:34",
+  "exploration_rate": 0.7609,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 16.143, "Q(ACO)": 97.7332}, "Excellent Balance": {"Q(RR)": 325.4418, "Q(ACO)": 335.2572} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:34",
+  "exploration_rate": 0.7609,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 16.143, "Q(ACO)": -133.5286}, "Excellent Balance": {"Q(RR)": 325.4418, "Q(ACO)": 335.2572} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:34",
+  "exploration_rate": 0.7609,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 16.143, "Q(ACO)": 190.6318}, "Excellent Balance": {"Q(RR)": 325.4418, "Q(ACO)": 335.2572} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:34",
+  "exploration_rate": 0.7609,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 16.143, "Q(ACO)": -39.3941}, "Excellent Balance": {"Q(RR)": 325.4418, "Q(ACO)": 335.2572} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:34",
+  "exploration_rate": 0.7609,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 16.0012, "Q(ACO)": -39.3941}, "Excellent Balance": {"Q(RR)": 325.4418, "Q(ACO)": 335.2572} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:34",
+  "exploration_rate": 0.7609,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 16.0012, "Q(ACO)": -227.9943}, "Excellent Balance": {"Q(RR)": 325.4418, "Q(ACO)": 335.2572} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:34",
+  "exploration_rate": 0.7609,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 16.0012, "Q(ACO)": -12.5024}, "Excellent Balance": {"Q(RR)": 325.4418, "Q(ACO)": 335.2572} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:34",
+  "exploration_rate": 0.7609,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 15.3127, "Q(ACO)": -12.5024}, "Excellent Balance": {"Q(RR)": 325.4418, "Q(ACO)": 335.2572} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:34",
+  "exploration_rate": 0.7609,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 14.6914, "Q(ACO)": -12.5024}, "Excellent Balance": {"Q(RR)": 325.4418, "Q(ACO)": 335.2572} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:34",
+  "exploration_rate": 0.7609,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 14.6914, "Q(ACO)": 76.2077}, "Excellent Balance": {"Q(RR)": 325.4418, "Q(ACO)": 335.2572} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:34",
+  "exploration_rate": 0.7609,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 14.6914, "Q(ACO)": 312.9665}, "Excellent Balance": {"Q(RR)": 325.4418, "Q(ACO)": 335.2572} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:34",
+  "exploration_rate": 0.7609,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 14.6914, "Q(ACO)": 238.4205}, "Excellent Balance": {"Q(RR)": 325.4418, "Q(ACO)": 335.2572} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:34",
+  "exploration_rate": 0.7609,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 14.6914, "Q(ACO)": 1.7476}, "Excellent Balance": {"Q(RR)": 325.4418, "Q(ACO)": 335.2572} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:34",
+  "exploration_rate": 0.7609,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 14.6868, "Q(ACO)": 1.7476}, "Excellent Balance": {"Q(RR)": 325.4418, "Q(ACO)": 335.2572} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:34",
+  "exploration_rate": 0.7609,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 14.6868, "Q(ACO)": -212.6919}, "Excellent Balance": {"Q(RR)": 325.4418, "Q(ACO)": 335.2572} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:34",
+  "exploration_rate": 0.7609,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 16.8085, "Q(ACO)": -212.6919}, "Excellent Balance": {"Q(RR)": 325.4418, "Q(ACO)": 335.2572} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:34",
+  "exploration_rate": 0.7609,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 18.8699, "Q(ACO)": -212.6919}, "Excellent Balance": {"Q(RR)": 325.4418, "Q(ACO)": 335.2572} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:34",
+  "exploration_rate": 0.7609,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 18.6056, "Q(ACO)": -212.6919}, "Excellent Balance": {"Q(RR)": 325.4418, "Q(ACO)": 335.2572} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:34",
+  "exploration_rate": 0.7609,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 18.6056, "Q(ACO)": -9.1221}, "Excellent Balance": {"Q(RR)": 325.4418, "Q(ACO)": 335.2572} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:34",
+  "exploration_rate": 0.7571,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 18.6056, "Q(ACO)": -214.5829}, "Excellent Balance": {"Q(RR)": 325.4418, "Q(ACO)": 335.2572} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:34",
+  "exploration_rate": 0.7571,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 18.3514, "Q(ACO)": -214.5829}, "Excellent Balance": {"Q(RR)": 325.4418, "Q(ACO)": 335.2572} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:34",
+  "exploration_rate": 0.7571,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 18.3514, "Q(ACO)": -7.8668}, "Excellent Balance": {"Q(RR)": 325.4418, "Q(ACO)": 335.2572} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:35",
+  "exploration_rate": 0.7571,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 18.3514, "Q(ACO)": -213.8101}, "Excellent Balance": {"Q(RR)": 325.4418, "Q(ACO)": 335.2572} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:35",
+  "exploration_rate": 0.7571,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 31.7934, "Q(ACO)": -213.8101}, "Excellent Balance": {"Q(RR)": 325.4418, "Q(ACO)": 335.2572} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:35",
+  "exploration_rate": 0.7571,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 31.7934, "Q(ACO)": -123.3717}, "Excellent Balance": {"Q(RR)": 325.4418, "Q(ACO)": 335.2572} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:35",
+  "exploration_rate": 0.7571,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 37.2249, "Q(ACO)": -123.3717}, "Excellent Balance": {"Q(RR)": 325.4418, "Q(ACO)": 335.2572} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:35",
+  "exploration_rate": 0.7571,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 37.2249, "Q(ACO)": -84.3161}, "Excellent Balance": {"Q(RR)": 325.4418, "Q(ACO)": 335.2572} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:35",
+  "exploration_rate": 0.7571,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 37.2249, "Q(ACO)": 56.9536}, "Excellent Balance": {"Q(RR)": 325.4418, "Q(ACO)": 335.2572} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:35",
+  "exploration_rate": 0.7571,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 37.2249, "Q(ACO)": -166.7748}, "Excellent Balance": {"Q(RR)": 325.4418, "Q(ACO)": 335.2572} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:35",
+  "exploration_rate": 0.7571,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 37.2249, "Q(ACO)": -268.3121}, "Excellent Balance": {"Q(RR)": 325.4418, "Q(ACO)": 335.2572} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:35",
+  "exploration_rate": 0.7571,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 32.2447, "Q(ACO)": -268.3121}, "Excellent Balance": {"Q(RR)": 325.4418, "Q(ACO)": 335.2572} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:35",
+  "exploration_rate": 0.7571,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 32.2447, "Q(ACO)": -309.7785}, "Excellent Balance": {"Q(RR)": 325.4418, "Q(ACO)": 335.2572} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:35",
+  "exploration_rate": 0.7571,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 32.2447, "Q(ACO)": 130.9659}, "Excellent Balance": {"Q(RR)": 325.4418, "Q(ACO)": 335.2572} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:35",
+  "exploration_rate": 0.7571,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 32.2447, "Q(ACO)": -97.9367}, "Excellent Balance": {"Q(RR)": 325.4418, "Q(ACO)": 335.2572} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:35",
+  "exploration_rate": 0.7571,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 32.2447, "Q(ACO)": -250.5632}, "Excellent Balance": {"Q(RR)": 325.4418, "Q(ACO)": 335.2572} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:35",
+  "exploration_rate": 0.7571,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 33.3063, "Q(ACO)": -250.5632}, "Excellent Balance": {"Q(RR)": 325.4418, "Q(ACO)": 335.2572} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:35",
+  "exploration_rate": 0.7571,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 33.3063, "Q(ACO)": -310.0186}, "Excellent Balance": {"Q(RR)": 325.4418, "Q(ACO)": 335.2572} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:35",
+  "exploration_rate": 0.7571,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 33.3063, "Q(ACO)": -330.2629}, "Excellent Balance": {"Q(RR)": 325.4418, "Q(ACO)": 335.2572} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:35",
+  "exploration_rate": 0.7571,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 32.1911, "Q(ACO)": -330.2629}, "Excellent Balance": {"Q(RR)": 325.4418, "Q(ACO)": 335.2572} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:35",
+  "exploration_rate": 0.7571,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 32.1911, "Q(ACO)": -336.0713}, "Excellent Balance": {"Q(RR)": 325.4418, "Q(ACO)": 335.2572} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:35",
+  "exploration_rate": 0.7571,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 30.5421, "Q(ACO)": -336.0713}, "Excellent Balance": {"Q(RR)": 325.4418, "Q(ACO)": 335.2572} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:35",
+  "exploration_rate": 0.7571,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 30.5421, "Q(ACO)": -56.8084}, "Excellent Balance": {"Q(RR)": 325.4418, "Q(ACO)": 335.2572} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:35",
+  "exploration_rate": 0.7571,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 30.5421, "Q(ACO)": -226.8935}, "Excellent Balance": {"Q(RR)": 325.4418, "Q(ACO)": 335.2572} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:35",
+  "exploration_rate": 0.7571,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 30.5421, "Q(ACO)": -6.132}, "Excellent Balance": {"Q(RR)": 325.4418, "Q(ACO)": 335.2572} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---
+{
+  "timestamp": "2025-10-27 23:45:36",
+  "exploration_rate": 0.7533,
+  "q_table_view": {
+    "Low Load": { "Poor Balance": {"Q(RR)": 40.0, "Q(ACO)": 1.0}, "Good Balance": {"Q(RR)": 38.8477, "Q(ACO)": 1.5}, "Excellent Balance": {"Q(RR)": -37.9984, "Q(ACO)": -47.1467} },
+    "Medium Load": { "Poor Balance": {"Q(RR)": 1.0, "Q(ACO)": 25.0}, "Good Balance": {"Q(RR)": 30.5421, "Q(ACO)": 253.085}, "Excellent Balance": {"Q(RR)": 325.4418, "Q(ACO)": 335.2572} },
+    "High Load": { "Poor Balance": {"Q(RR)": 0.5, "Q(ACO)": 40.0}, "Good Balance": {"Q(RR)": 1.0, "Q(ACO)": 50.0}, "Excellent Balance": {"Q(RR)": 1.5, "Q(ACO)": 60.0} }
+  }
+}
+---

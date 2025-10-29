@@ -1,0 +1,24 @@
+LOAD BALANCER SIMULATION - COMPREHENSIVE SUMMARY
+============================================================
+Simulation ID: None
+Generated: 2025-10-27 23:45:38
+============================================================
+
+ALGORITHM: Hybrid
+----------------------------------------
+Total Tasks: 200
+Number of Servers: 20
+Average Response Time: 1.146 seconds
+Response Time Std Dev: 0.299 seconds
+Average Utilization: 48.70%
+Utilization Std Dev: 24.80%
+Average Task Load: 27.31
+Min/Max Utilization: 0.0% / 99.9%
+Min/Max Response Time: 0.507s / 2.405s
+
+Algorithm Usage Breakdown:
+  ACO: 179 tasks (59.7%)
+  RR: 121 tasks (40.3%)
+
+============================================================
+
